@@ -9,3 +9,4 @@ Models implemented:
 - XGBoost
 - Neural Networks
 
+ **Best Model**: Neural Network achieving 72.05% accuracy
