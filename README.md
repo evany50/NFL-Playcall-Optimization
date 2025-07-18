@@ -2,7 +2,7 @@
 Predicting the efficacy of offensive play type choice for the Washington Commanders to maximize winning chances
 
 Models implemented:
-- Linear Regression (baseline)
+- Linear Regression 
 - Logistic Regression
 - Decision Trees
 - Random Forest
